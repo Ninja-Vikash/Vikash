@@ -4,7 +4,7 @@
 Also I have knowledge of Typography.
 
 ### TOP SKILLS :
-1. HTML5
+1. <span color="red">HTML5</span>
 2. CSS
 3. JavaScript
 4. MS Word
