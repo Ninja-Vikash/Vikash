@@ -7,4 +7,4 @@
 
 |MATRICULATION|INTERMEDIATE|GRADUATION|
 | :----: | :----: | :----: |
-|IVJ  |JCC  | KUUNIV  |
+|IVJ  |JCC(I.Sc)  | KUUNIV(B.SC)  |
