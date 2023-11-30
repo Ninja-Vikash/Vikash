@@ -8,3 +8,5 @@
 |MATRICULATION|INTERMEDIATE|GRADUATION|
 | :----: | :----: | :----: |
 |IVJ [Year: 2006-2018] |JCC(I.Sc) [Year: 2018-2020]  | KUUNIV(B.SC) [Year: 2020-2024]  |
+
+![Skill](https://github.com/Ninja-Vikash/Assets/blob/main/Profile/skill.png)
