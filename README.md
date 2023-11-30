@@ -7,5 +7,4 @@
 
 |MATRICULATION|INTERMEDIATE|GRADUATION|
 | :----: | :----: | :----: |
-|IVJ  |JCC(I.Sc)  | KUUNIV(B.SC)  |
-|Year: 2006-2018|Year: 2018-2020|year: 2020-2024|
+|IVJ [Year: 2006-2018] |JCC(I.Sc) [Year: 2018-2020]  | KUUNIV(B.SC) [Year: 2020-2024]  |
