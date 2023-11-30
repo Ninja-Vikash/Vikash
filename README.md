@@ -2,7 +2,7 @@
 ![Banner](https://github.com/Ninja-Vikash/Assets/blob/main/Profile/linkedIn%20New%20Banner.png)
 # I am a Front-End Web Developer.
 **HTML • CSS • TailWind CSS • JavaScript** <br>
-**Knowledge of MS Word • MS PowerPoint** \n
+**Knowledge of MS Word • MS PowerPoint** <br>
 **EDUCATION**
 
 |MATRICULATION|INTERMEDIATE|GRADUATION|
