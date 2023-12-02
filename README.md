@@ -4,7 +4,7 @@
 <p>I am a <b>Front-End Developer</b></p>
 
 **Contact**:
-<p>📌Email : vikashloharjsr@gmail.com <br>📌LinkedIn : vikashkumar003</p>
+<p>✉️Email : vikashloharjsr@gmail.com <br>🔗LinkedIn : vikashkumar003</p>
 
 **EDUCATION**
 ![education](https://github.com/Ninja-Vikash/Assets/blob/main/Profile/Study%20corner.png)
