@@ -7,7 +7,7 @@ I am a **Front-End Developer**
 **Contact**:
 <p>
   ✉️Email : vikashloharjsr@gmail.com <br>
-  🔗LinkedIn : <a href="www.linkedin.com/in/vikashkumar003">vikashkumar003</a>
+  🔗LinkedIn : <a href="https://www.linkedin.com/in/vikashkumar003/">vikashkumar003</a>
 </p><hr>
 
 **EDUCATION**
